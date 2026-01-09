@@ -46,8 +46,8 @@ The system embeds technical documents locally, stores them in a vector database,
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
-cd secure-manual-assistant
+git clone [<your-repo-url>](https://github.com/asperavl/manual-rag-analysis)
+cd manual-rag-analysis
 ```
 
 2. **Install dependencies**
